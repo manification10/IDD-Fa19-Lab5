@@ -16,8 +16,8 @@ My box is October themed. October for me is Halloween (my ghost jack) and Durga 
 <br>
 [Adobe Illustrator file for sides](./Durga.ai)
 <br>
-[My Box](./Box1.jpeg)
-[My Box](./Box2.jpeg)
+![My Box](./box1.jpeg)
+![My Box](./box2.jpeg)
 
 
 ## 3D Printing
