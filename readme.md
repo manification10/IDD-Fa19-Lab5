@@ -32,6 +32,9 @@ I added an LED inside the printed part for the Halloween feels.
 ## Electronics
 
 **a. Upload code & a photo of your electronic circuit here.**
+<br>
+![Electronic Circuit](./elcircuit.jpeg)
+
 
 ## Putting it All Together
 
