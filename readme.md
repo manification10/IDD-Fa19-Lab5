@@ -11,10 +11,13 @@ My box is October themed. October for me is Halloween (my ghost jack) and Durga 
 
 **a. Include a photo of your box here.**
 **b. Include `.stl` files.**
+<br>
 [Stl file of the ghost](./gtl_ghost_redone.STL)
+<br>
 [Adobe Illustrator file for sides](./Durga.ai)
-![My Box](./Box1.jpeg)
-![My Box](./Box2.jpeg)
+<br>
+[My Box](./Box1.jpeg)
+[My Box](./Box2.jpeg)
 
 
 ## 3D Printing
