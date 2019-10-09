@@ -24,9 +24,10 @@ My jack in the box is triggered by a button on the circuit when the servo turns 
 **b. Include `.stl` or `.svg` files if you made modifications.**
 <br>
 [Stl file of the ghost](./gtl_ghost_redone.STL)
+<br>
 I added an LED inside the printed part for the Halloween feels. 
-![My Box](./back.jpeg)
-![My Box](./front.jpeg)
+![Front](./front.jpeg)
+![Back](./back.jpeg)
 
 ## Electronics
 
