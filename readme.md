@@ -4,12 +4,17 @@
 
 Please put your sketches or designs for the Jack in the Box.
 
-
+I used laser cutting for box side design. And an open source stl file for a halloween ghost that I 3D printed for jack. 
+My box is October themed. October for me is Halloween (my ghost jack) and Durga Puja (laser cut on the box). 
 
 ## Laser Cutting
 
 **a. Include a photo of your box here.**
 **b. Include `.stl` files.**
+[Stl file of the ghost](./gtl_ghost_redone.STL)
+[Adobe Illustrator file for sides](./Durga.ai)
+![My Box](./Box1.jpeg)
+![My Box](./Box2.jpeg)
 
 
 ## 3D Printing
